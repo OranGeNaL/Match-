@@ -1,0 +1,15 @@
+C:\Users\orangenal\Documents\GitHub\Match!\Match!\Match!\bin\Debug\netcoreapp3.1\Match!.exe
+C:\Users\orangenal\Documents\GitHub\Match!\Match!\Match!\bin\Debug\netcoreapp3.1\Match!.deps.json
+C:\Users\orangenal\Documents\GitHub\Match!\Match!\Match!\bin\Debug\netcoreapp3.1\Match!.runtimeconfig.json
+C:\Users\orangenal\Documents\GitHub\Match!\Match!\Match!\bin\Debug\netcoreapp3.1\Match!.runtimeconfig.dev.json
+C:\Users\orangenal\Documents\GitHub\Match!\Match!\Match!\bin\Debug\netcoreapp3.1\Match!.dll
+C:\Users\orangenal\Documents\GitHub\Match!\Match!\Match!\bin\Debug\netcoreapp3.1\Match!.pdb
+C:\Users\orangenal\Documents\GitHub\Match!\Match!\Match!\obj\Debug\netcoreapp3.1\Match!.csproj.AssemblyReference.cache
+C:\Users\orangenal\Documents\GitHub\Match!\Match!\Match!\obj\Debug\netcoreapp3.1\Match_.Form1.resources
+C:\Users\orangenal\Documents\GitHub\Match!\Match!\Match!\obj\Debug\netcoreapp3.1\Match!.csproj.GenerateResource.cache
+C:\Users\orangenal\Documents\GitHub\Match!\Match!\Match!\obj\Debug\netcoreapp3.1\Match!.AssemblyInfoInputs.cache
+C:\Users\orangenal\Documents\GitHub\Match!\Match!\Match!\obj\Debug\netcoreapp3.1\Match!.AssemblyInfo.cs
+C:\Users\orangenal\Documents\GitHub\Match!\Match!\Match!\obj\Debug\netcoreapp3.1\Match!.csproj.CoreCompileInputs.cache
+C:\Users\orangenal\Documents\GitHub\Match!\Match!\Match!\obj\Debug\netcoreapp3.1\Match!.dll
+C:\Users\orangenal\Documents\GitHub\Match!\Match!\Match!\obj\Debug\netcoreapp3.1\Match!.pdb
+C:\Users\orangenal\Documents\GitHub\Match!\Match!\Match!\obj\Debug\netcoreapp3.1\Match!.genruntimeconfig.cache
